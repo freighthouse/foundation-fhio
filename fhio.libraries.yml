@@ -1,0 +1,7 @@
+global:
+  version: VERSION
+  css:
+    base:
+      css/fhio.css: {}
+  js:
+    js/fhio.js: {}
